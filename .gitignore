@@ -1,3 +1,17 @@
+# Custom
+
+*.swp
+/__pycache__/
+/venv/
+/env/
+/.pyenv/
+/.idea/
+/.vscode/
+/.pytest_cache/
+/.mypy_cache/
+**/cache/**
+cache/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
